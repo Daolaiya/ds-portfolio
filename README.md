@@ -1,18 +1,18 @@
-# Data Science Portfolio
-## Author - Damilola Olaiya B.SC Mechanical Engineering
-
-### About
-LinkedIn --> https://www.linkedin.com/in/damilola-olaiya/
-
-## Capstone 1
-Hypothesis → How can Big Mountain Resort create a ticket pricing strategy that will (1) better leverage the client’s facilities
+# Projects
+### Mountain Resort Pricing Strategy
+- Hypothesis → How can Big Mountain Resort create a ticket pricing strategy that will (1) better leverage the client’s facilities
 and (2) either cut costs or give more confidence in increasing ticket prices without undermining ticket sales in the long run?
 
-## Capstone 2
-Hypothesis → How can Walmart use its reported sales data to (i) predict and take advantage of future
+### Walmart Sales Prediction
+- Hypothesis → How can Walmart use its reported sales data to (i) predict and take advantage of future
 sales/demand and (ii) potentially improve inventory allocation/scheduling?
 
-## Capstone 3
-Hypothesis → How can a given company use tweets about itself and its products or employees to (i) gauge
+### Tweet Sentiment Analysis
+- Hypothesis → How can a given company use tweets about itself and its products or employees to (i) gauge
 overall sentiment about its products, services, employees or overall branding to make decisions about demand
 and/or marketing?
+
+## About Damilola Olaiya
+- Data Scientist and Engineer with a background in Deep Learning, Machine Learning, Data Visualization and AWS.
+- Experienced in creating/deploying fast, scalable and accurate machine learning models using Big Data techniques and Neural Networks.
+- [LinkedIn Profile](https://www.linkedin.com/in/damilola-olaiya)
