@@ -12,13 +12,13 @@ sales/demand and (ii) potentially improve inventory allocation/scheduling?
 overall sentiment about its products, services, employees or overall branding to make decisions about demand
 and/or marketing?
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### About Damilola Olaiya
 - Data Scientist and Engineer with a background in Deep Learning, Machine Learning, Data Visualization and AWS.
