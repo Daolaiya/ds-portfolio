@@ -1,18 +1,26 @@
 # Projects
-### Mountain Resort Pricing Strategy
+### [Mountain Resort Pricing Strategy](https://github.com/Daolaiya/Data-Science-Portfolio/tree/main/Project%201)
 - Hypothesis → How can Big Mountain Resort create a ticket pricing strategy that will (1) better leverage the client’s facilities
 and (2) either cut costs or give more confidence in increasing ticket prices without undermining ticket sales in the long run?
 
-### Walmart Sales Prediction
+### [Walmart Sales Prediction](https://github.com/Daolaiya/Data-Science-Portfolio/tree/main/Project%202)
 - Hypothesis → How can Walmart use its reported sales data to (i) predict and take advantage of future
 sales/demand and (ii) potentially improve inventory allocation/scheduling?
 
-### Tweet Sentiment Analysis
+### [Tweet Sentiment Analysis](https://github.com/Daolaiya/Data-Science-Portfolio/tree/main/Project%203)
 - Hypothesis → How can a given company use tweets about itself and its products or employees to (i) gauge
 overall sentiment about its products, services, employees or overall branding to make decisions about demand
 and/or marketing?
 
-## About Damilola Olaiya
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+### About Damilola Olaiya
 - Data Scientist and Engineer with a background in Deep Learning, Machine Learning, Data Visualization and AWS.
 - Experienced in creating/deploying fast, scalable and accurate machine learning models using Big Data techniques and Neural Networks.
 - [LinkedIn Profile](https://www.linkedin.com/in/damilola-olaiya)
