@@ -1,4 +1,18 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Damilola Olaiya"
-description: "Data Science Portfolio"
-logo: "profile.png?raw=true"
+description:
+<p align="center">
+<a href="https://www.linkedin.com/in/damilola-olaiya">LinkedIn</a> |
+<a href="hhttps://github.com/Daolaiya/ds-portfolio-alt">GitHub</a>
+</p>
+
+<p align="justify">
+<ul>
+  <li>Data Scientist and Engineer with a background in Deep Learning, Machine Learning, Data Visualization and AWS.</li>
+  <li>Experienced in creating/deploying fast, scalable and accurate machine learning models using Big Data techniques and Neural Networks.</li>
+</ul>
+</p>
+logo: "/images/profile_cropped.png"
+github.is_project_page: False
