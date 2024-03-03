@@ -11,3 +11,16 @@ sales/demand and (ii) potentially improve inventory allocation/scheduling?
 - Hypothesis → How can a given company use tweets about itself and its products or employees to (i) gauge
 overall sentiment about its products, services, employees or overall branding to make decisions about demand
 and/or marketing?
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### About Damilola Olaiya
+- Data Scientist and Engineer with a background in Deep Learning, Machine Learning, Data Visualization and AWS.
+- Experienced in creating/deploying fast, scalable and accurate machine learning models using Big Data techniques and Neural Networks.
+- [LinkedIn Profile](https://www.linkedin.com/in/damilola-olaiya)
